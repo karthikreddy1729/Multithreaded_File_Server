@@ -1,7 +1,7 @@
 # Multithreaded_File_Server
 
- Client side libraries - ljson-c
- Server side libraries - ljson-c, l-pthread
+--- Client side libraries - ljson-c
+ ---Server side libraries - ljson-c, l-pthread
 ## Steps to execute the code
  - Terminal 1(server) 
  ```
